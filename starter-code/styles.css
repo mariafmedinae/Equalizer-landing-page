@@ -228,7 +228,7 @@ li img:hover {
 
 @media screen and (min-width: 1440px) {
     body {
-        background: url(assets/bg-pattern-1.svg) calc(100% - 40px) -40px no-repeat,
+        background: url(assets/bg-pattern-1.svg) 100% -40px no-repeat,
                     url(assets/bg-main-desktop.png) calc(100% + 210px) -280px no-repeat;
     }
 
