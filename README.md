@@ -1,6 +1,6 @@
 # Frontend Mentor - Equalizer landing page solution
 
-This is a solution to the [Equalizer landing page challenge on Frontend Mentor](./preview.jpg). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Equalizer landing page challenge on Frontend Mentor](preview.jpg). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-[My solution's screenshot](./Screenshot.png)
+[My solution's screenshot](Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mariafmedinae/Equalizer-landing-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/equalizer-landing-page-using-flexbox-and-semantic-html-_xmEkdwrQ)
+- Live Site URL: [Live site URL](https://mariafmedinae.github.io/Equalizer-landing-page/)
 
 ## My process
 
